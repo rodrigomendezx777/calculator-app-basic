@@ -14,6 +14,8 @@ O layout abaixo deve ser replicado fielmente, e as funcionalidades devem ser inc
 **Layout**:
 ![image](https://github.com/andrewtechprof/calculator-app-basic/assets/170783903/169cca86-dd21-4129-b018-a6875ec1497a)
 
+Para acessar o figma [clique aqui](https://www.figma.com/design/qTcgGtwubL6ohQjFqXsYiL/Calculator-App-UI-Kit-with-Dark-Mode-(Community)?node-id=2-2&t=QuIQ1KUpGR3KgVgF-0).
+
 ## Funcionalidades:
 
 - Operações aritiméticas:
