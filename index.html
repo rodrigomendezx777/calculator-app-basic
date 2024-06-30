@@ -4,11 +4,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Importação da font (INTER)-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
     <title>Calculadora APP</title>
     <link rel="stylesheet" href="./styles/index.style.css">
 </head>
 
 <body>
+    <main>
+        <div class="calculator__container">
+            <div class="calculator__header">
+                <div class="switch-color__container">
+                    <div class="switch-color__toggle">
+                        <span class="switch-color__button"></span>
+                    </div>
+                    <span class="switch-color__appointment">Trocar para {{theme}}</span>
+                </div>
+                <div class="display__container">
+                    <div class="display__history"></div>
+                    <div class="display__main"></div>
+                </div>
+                <div class="display__row-gradient"></div>
+            </div>
+        </div>
+        </div>
+    </main>
+
     <script src="./scripts/index.js"></script>
 </body>
 
