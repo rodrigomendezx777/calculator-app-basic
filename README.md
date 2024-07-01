@@ -7,7 +7,7 @@ O projeto é de intuito educativo e serve como conclusão do curso de JavaScript
 - CSS3;
 - JavaScript ES6+;
 
-## Aplicação (Layout)
+## Aplicação (Layout) ✅
 
 O layout abaixo deve ser replicado fielmente, e as funcionalidades devem ser incluidas conforme a necessidade do projeto.
 
@@ -35,5 +35,7 @@ Para acessar o figma [clique aqui](https://www.figma.com/design/qTcgGtwubL6ohQjF
   - Deve ser possível ter uma **versão da aplicação no modo claro**; ✅
 - Limpar o visor:
   - Deve ser possível **limpar o visor da tela**;
+- Reutilizar os valores resultantes:
+  - Deve ser possível  **reutilizar o valor que foi resultado de uma operação**;
 
 > As funcionalidades são de caráter **obrigatório** para o funcionamento correto da aplicação.
