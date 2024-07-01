@@ -1,5 +1,7 @@
 :root {
     --main-background-color: #EAEBED;
-
+    --body-background-color: #C9BAFF;
+    --sec-operators-background-color: #EAEBED;
+    --numbers-background-color: #FFFFFF;
     --color-text-main: #2E3A48;
 }
