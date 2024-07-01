@@ -30,9 +30,9 @@ Para acessar o figma [clique aqui](https://www.figma.com/design/qTcgGtwubL6ohQjF
 - Gestão de histórico de operações:
   - Deve ser possível **observar o histórico** de operações aritméticas;
   - Deve ser possível **limpar o histórico**;
-- Troca de tema:
-  - Deve ser possível ter uma **versão da aplicação no modo escuro**;
-  - Deve ser possível ter uma **versão da aplicação no modo claro**;
+- Troca de tema: ✅
+  - Deve ser possível ter uma **versão da aplicação no modo escuro**; ✅
+  - Deve ser possível ter uma **versão da aplicação no modo claro**; ✅
 - Limpar o visor:
   - Deve ser possível **limpar o visor da tela**;
 
