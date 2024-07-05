@@ -26,7 +26,7 @@
                 </div>
                 <div class="display__container">
                     <div class="display__history">45 x 24</div>
-                    <div class="display__main" id="result"></div>
+                    <div class="display__main"></div>
                 </div>
             </div>
             <div class="calculator__divider"></div>
@@ -71,18 +71,18 @@
                     </div>
                     <div class="calculator__main-operators">
                         <div class="calculator__button calculator__operator" onclick="insertOperator('/')">/</div>
-                        <div class="calculator__button calculator__operator" onclick="insertOperator('*')">x</div>
+                        <div class="calculator__button calculator__operator" onclick="insertOperator('x')">x</div>
                         <div class="calculator__button calculator__operator" onclick="insertOperator('-')">-</div>
                         <div class="calculator__button calculator__operator" onclick="insertOperator('+')">+</div>
-                        <div class="calculator__button calculator__equal">=</div>
+                        <div class="calculator__button calculator__equal" onclick="calculate()">=</div>
                     </div>
                 </div>
             </div>
         </div>
     </main>
-
+    <script src="scripts\teste.js"></script>
     <script src="./scripts/theme.js"></script>
-    <script src="./scripts/index.js"></script>
+    <!-- <script src="./scripts/index.js"></script> -->
 </body>
 
 </html>
