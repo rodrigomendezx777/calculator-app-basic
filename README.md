@@ -34,7 +34,7 @@ Para acessar o figma [clique aqui](https://www.figma.com/design/qTcgGtwubL6ohQjF
   - Deve ser possível ter uma **versão da aplicação no modo escuro**; ✅
   - Deve ser possível ter uma **versão da aplicação no modo claro**; ✅
 - Limpar o visor:
-  - Deve ser possível **limpar o visor da tela**;
+  - Deve ser possível **limpar o visor da tela**;✅
 - Reutilizar os valores resultantes:
   - Deve ser possível  **reutilizar o valor que foi resultado de uma operação**;
 
