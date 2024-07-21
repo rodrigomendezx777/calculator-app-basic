@@ -66,9 +66,9 @@ numbers.forEach(function (element){
             firstNumber = extractNumbers[0]
             secondNumber = extractNumbers[1]
           }
-          // if(mainDisplay.innerText.includes(firstNumber)){
-          //   displayHistory.innerText =  mainDisplay.innerText
-          // }
+          if(mainDisplay.innerText.includes(firstNumber)){
+            displayHistory.innerText =  mainDisplay.innerText
+          }
 
           console.table({
             firstNumber,
@@ -122,9 +122,3 @@ equal.addEventListener('click', () => {
       currentOperator = null;
   }
 });
-
-          // console.table({
-          //   firstNumber,
-          //   currentOperator,
-          //   secondNumber
-          // })

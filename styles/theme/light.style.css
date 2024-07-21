@@ -5,3 +5,12 @@
     --numbers-background-color: #FFFFFF;
     --color-text-main: #2E3A48;
 }
+
+.history__group{
+    width: 257px;
+    height: 350px;
+    background: #FFFFFF;
+    border-radius: 23px;
+    border: 4px solid #937CE6;
+    display: none;
+}

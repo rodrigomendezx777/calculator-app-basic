@@ -15,7 +15,6 @@
 </head>
 
 <body>
-    oi
     <main>
         <div class="calculator__container">
             <div class="calculator__header">
@@ -33,7 +32,8 @@
             <div class="calculator__divider"></div>
             <div class="calculator__body">
                 <div class="action__container">
-                    <img class="action__history" src="./assets/history-icon.svg" alt="History Button">
+                    <div id="history_btn"><img class="action__history" src="./assets/history-icon.svg" alt="History Button"></div>
+                    
                     <div class="action__buttons">
                         <div class="action__result">last number</div>
                         <img class="action__clear-display" src="./assets/clear-icon.svg" alt="Clear Display Button">
@@ -41,6 +41,10 @@
                 </div>
 
                 <div class="calculator__buttons">
+                    <div class="history__group">
+                        oi
+
+                    </div>
                     <div class="calculator__numerals">
                         <div class="calculator__group">
                             <div class="calculator__button calculator__sec-operator limparTudo">C</div>
@@ -84,6 +88,7 @@
     <script src="scripts\teste.js"></script>
     <script src="./scripts/theme.js"></script>
     <!-- <script src="./scripts/index.js"></script> -->
+     <script src="scripts\history.js"></script>
 </body>
 
 </html>
